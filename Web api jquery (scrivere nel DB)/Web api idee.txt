@@ -1,0 +1,18 @@
+Metodi da istanziare:
+- GET
+- POST
+- DELETE
+
+Utente:
+- registrarsi
+- prenotare
+- cancellare prenotazione
+- visualizzare prenotazione propria
+- stato sala d'attesa
+
+Medico:
+- visualizzare utenti prenotati e non
+- scrivere sulla newsletter
+- cancellare prenotazione
+
+
