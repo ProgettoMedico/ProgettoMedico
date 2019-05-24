@@ -1,0 +1,20 @@
+E:\5F\Progetto Medico\InvioGSM\InvioGSM\bin\Debug\InvioGSM.exe.config
+E:\5F\Progetto Medico\InvioGSM\InvioGSM\bin\Debug\InvioGSM.exe
+E:\5F\Progetto Medico\InvioGSM\InvioGSM\bin\Debug\InvioGSM.pdb
+E:\5F\Progetto Medico\InvioGSM\InvioGSM\obj\Debug\InvioGSM.csprojAssemblyReference.cache
+E:\5F\Progetto Medico\InvioGSM\InvioGSM\obj\Debug\InvioGSM.Form1.resources
+E:\5F\Progetto Medico\InvioGSM\InvioGSM\obj\Debug\InvioGSM.Properties.Resources.resources
+E:\5F\Progetto Medico\InvioGSM\InvioGSM\obj\Debug\InvioGSM.csproj.GenerateResource.cache
+E:\5F\Progetto Medico\InvioGSM\InvioGSM\obj\Debug\InvioGSM.csproj.CoreCompileInputs.cache
+E:\5F\Progetto Medico\InvioGSM\InvioGSM\obj\Debug\InvioGSM.exe
+E:\5F\Progetto Medico\InvioGSM\InvioGSM\obj\Debug\InvioGSM.pdb
+C:\Users\m_inf1.quinta\Downloads\InvioGSM\InvioGSM\bin\Debug\InvioGSM.exe.config
+C:\Users\m_inf1.quinta\Downloads\InvioGSM\InvioGSM\bin\Debug\InvioGSM.exe
+C:\Users\m_inf1.quinta\Downloads\InvioGSM\InvioGSM\bin\Debug\InvioGSM.pdb
+C:\Users\m_inf1.quinta\Downloads\InvioGSM\InvioGSM\obj\Debug\InvioGSM.csprojAssemblyReference.cache
+C:\Users\m_inf1.quinta\Downloads\InvioGSM\InvioGSM\obj\Debug\InvioGSM.Form1.resources
+C:\Users\m_inf1.quinta\Downloads\InvioGSM\InvioGSM\obj\Debug\InvioGSM.Properties.Resources.resources
+C:\Users\m_inf1.quinta\Downloads\InvioGSM\InvioGSM\obj\Debug\InvioGSM.csproj.GenerateResource.cache
+C:\Users\m_inf1.quinta\Downloads\InvioGSM\InvioGSM\obj\Debug\InvioGSM.csproj.CoreCompileInputs.cache
+C:\Users\m_inf1.quinta\Downloads\InvioGSM\InvioGSM\obj\Debug\InvioGSM.exe
+C:\Users\m_inf1.quinta\Downloads\InvioGSM\InvioGSM\obj\Debug\InvioGSM.pdb
