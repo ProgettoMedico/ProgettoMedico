@@ -1,0 +1,20 @@
+E:\5F\Progetto Medico\Mess_WA\Mess_WA\bin\Debug\Mess_WA.exe.config
+E:\5F\Progetto Medico\Mess_WA\Mess_WA\bin\Debug\Mess_WA.exe
+E:\5F\Progetto Medico\Mess_WA\Mess_WA\bin\Debug\Mess_WA.pdb
+E:\5F\Progetto Medico\Mess_WA\Mess_WA\obj\Debug\Mess_WA.csprojAssemblyReference.cache
+E:\5F\Progetto Medico\Mess_WA\Mess_WA\obj\Debug\Mess_WA.Form1.resources
+E:\5F\Progetto Medico\Mess_WA\Mess_WA\obj\Debug\Mess_WA.Properties.Resources.resources
+E:\5F\Progetto Medico\Mess_WA\Mess_WA\obj\Debug\Mess_WA.csproj.GenerateResource.cache
+E:\5F\Progetto Medico\Mess_WA\Mess_WA\obj\Debug\Mess_WA.csproj.CoreCompileInputs.cache
+E:\5F\Progetto Medico\Mess_WA\Mess_WA\obj\Debug\Mess_WA.exe
+E:\5F\Progetto Medico\Mess_WA\Mess_WA\obj\Debug\Mess_WA.pdb
+C:\Users\m_inf1.quinta\Downloads\Mess_WA\Mess_WA\bin\Debug\Mess_WA.exe.config
+C:\Users\m_inf1.quinta\Downloads\Mess_WA\Mess_WA\bin\Debug\Mess_WA.exe
+C:\Users\m_inf1.quinta\Downloads\Mess_WA\Mess_WA\bin\Debug\Mess_WA.pdb
+C:\Users\m_inf1.quinta\Downloads\Mess_WA\Mess_WA\obj\Debug\Mess_WA.csprojAssemblyReference.cache
+C:\Users\m_inf1.quinta\Downloads\Mess_WA\Mess_WA\obj\Debug\Mess_WA.Form1.resources
+C:\Users\m_inf1.quinta\Downloads\Mess_WA\Mess_WA\obj\Debug\Mess_WA.Properties.Resources.resources
+C:\Users\m_inf1.quinta\Downloads\Mess_WA\Mess_WA\obj\Debug\Mess_WA.csproj.GenerateResource.cache
+C:\Users\m_inf1.quinta\Downloads\Mess_WA\Mess_WA\obj\Debug\Mess_WA.csproj.CoreCompileInputs.cache
+C:\Users\m_inf1.quinta\Downloads\Mess_WA\Mess_WA\obj\Debug\Mess_WA.exe
+C:\Users\m_inf1.quinta\Downloads\Mess_WA\Mess_WA\obj\Debug\Mess_WA.pdb

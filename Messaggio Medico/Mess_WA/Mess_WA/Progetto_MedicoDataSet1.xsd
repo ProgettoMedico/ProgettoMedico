@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Progetto_MedicoDataSet1" targetNamespace="http://tempuri.org/Progetto_MedicoDataSet1.xsd" xmlns:mstns="http://tempuri.org/Progetto_MedicoDataSet1.xsd" xmlns="http://tempuri.org/Progetto_MedicoDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Progetto_MedicoConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Progetto_MedicoConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Mess_WA.Properties.Settings.GlobalReference.Default.Progetto_MedicoConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="MedicoTableAdapter" GeneratorDataComponentClassName="MedicoTableAdapter" Name="Medico" UserDataComponentName="MedicoTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Progetto_MedicoConnectionString (Settings)" DbObjectName="[Progetto Medico ].dbo.Medico" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Cognome FROM dbo.Medico</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Cognome" DataSetColumn="Cognome" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Progetto_MedicoDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Progetto_MedicoDataSet1" msprop:Generator_UserDSName="Progetto_MedicoDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Medico" msprop:Generator_TableClassName="MedicoDataTable" msprop:Generator_TableVarName="tableMedico" msprop:Generator_TablePropName="Medico" msprop:Generator_RowDeletingName="MedicoRowDeleting" msprop:Generator_RowChangingName="MedicoRowChanging" msprop:Generator_RowEvHandlerName="MedicoRowChangeEventHandler" msprop:Generator_RowDeletedName="MedicoRowDeleted" msprop:Generator_UserTableName="Medico" msprop:Generator_RowChangedName="MedicoRowChanged" msprop:Generator_RowEvArgName="MedicoRowChangeEvent" msprop:Generator_RowClassName="MedicoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Cognome" msprop:Generator_ColumnVarNameInTable="columnCognome" msprop:Generator_ColumnPropNameInRow="Cognome" msprop:Generator_ColumnPropNameInTable="CognomeColumn" msprop:Generator_UserColumnName="Cognome">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
