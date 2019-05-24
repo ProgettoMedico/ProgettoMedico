@@ -1,0 +1,10 @@
+E:\5F\Progetto Medico\NuovoUtente\NuovoUtente\bin\Debug\NuovoUtente.exe.config
+E:\5F\Progetto Medico\NuovoUtente\NuovoUtente\bin\Debug\NuovoUtente.exe
+E:\5F\Progetto Medico\NuovoUtente\NuovoUtente\bin\Debug\NuovoUtente.pdb
+E:\5F\Progetto Medico\NuovoUtente\NuovoUtente\obj\Debug\NuovoUtente.csprojAssemblyReference.cache
+E:\5F\Progetto Medico\NuovoUtente\NuovoUtente\obj\Debug\NuovoUtente.Form1.resources
+E:\5F\Progetto Medico\NuovoUtente\NuovoUtente\obj\Debug\NuovoUtente.Properties.Resources.resources
+E:\5F\Progetto Medico\NuovoUtente\NuovoUtente\obj\Debug\NuovoUtente.csproj.GenerateResource.cache
+E:\5F\Progetto Medico\NuovoUtente\NuovoUtente\obj\Debug\NuovoUtente.csproj.CoreCompileInputs.cache
+E:\5F\Progetto Medico\NuovoUtente\NuovoUtente\obj\Debug\NuovoUtente.exe
+E:\5F\Progetto Medico\NuovoUtente\NuovoUtente\obj\Debug\NuovoUtente.pdb
