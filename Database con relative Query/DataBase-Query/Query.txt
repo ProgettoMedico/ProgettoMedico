@@ -1,0 +1,18 @@
+--Numero prenotazioni in data e ora correnti
+SELECT Nome, Cognome, DataPrenotazione, Ora
+FROM Utenti U INNER JOIN Prenotazioni P ON U.CodUtente = P.CodUtente
+WHERE DataPrenotazione = GETDATE() 
+
+
+--Numero di telefono di utente 
+SELECT Nome, Cognome, NumeroTelefono
+FROM Utenti 
+
+--Lista prenotazioni con dati utenti 
+SELECT P.CodPrenotazione, U.CodFiscale, U.Nome, U.Cognome, U.DataNascita, U.Indirizzo, U.Sesso, U.NumeroTelefono
+FROM Prenotazioni P INNER JOIN Utenti U ON P.CodUtente=U.CodUtente
+
+--Dato codice fiscale restituire 
+SELECT U.*, CodFiscale 
+FROM Utenti U
+WHERE CodFiscale ='1'
